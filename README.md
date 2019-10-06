@@ -64,7 +64,7 @@ If you exceed 10 recipes and/or batches in your free Premium trial, you will not
 
 ## Brewfather Premium <a id="brewfather-premium"></a>
 
-You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and premium features. The Premium subscription costs $1.99 per month or $19.99 annually, and will cover Brewfather's running costs and development of new features.
+You can sign up for a Premium subscription to unlock unlimited number of recipes/batches and premium features. The Premium subscription costs $1.99 USD per month or $19.99 USD annually, and will cover Brewfather's running costs and development of new features.
 
 **Exclusive Premium Features Include:**
 
