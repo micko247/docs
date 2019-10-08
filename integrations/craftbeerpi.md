@@ -1,6 +1,8 @@
 # CraftBeerPi
 
-Posting Fermentation data from CraftBeerPi V3 is possible with this custom plugins provided by Michael Mowbray.
+Posting Fermentation data from CraftBeerPi V3 is possible with this custom plugins provided by Brewfather users.
+
+Logging to **Custom Stream**: [https://github.com/jnosek/cbpi\_Brewfather/](https://github.com/jnosek/cbpi_Brewfather/)
 
 For **Tilt Hydrometer** find it here: [https://github.com/mowbraym/brewfather](https://github.com/mowbraym/brewfather)
 
