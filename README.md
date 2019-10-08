@@ -22,7 +22,7 @@ Brewfather includes
 * Highly **customizable** equipment profile to suit any brewing system
 * Large customizable **ingredients** database
 * **Inventory** stock & **cost** tracking
-* Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF\)
+* Multiple **style guidelines** \(BJCP, Brewers Association, Norbrygg, SHBF, DØDL\)
 * Supports custom style guidelines
 * Remote logging from [**Tilt**](integrations/tilt-hydrometer.md), [**iSpindel**](integrations/ispindel/)**,** [**Brewpiless**](integrations/brewpiless.md)**,** [**MyBrewbot**](integrations/mybrewbot.md#what-is-mybrewbot)**,** [**SmartPID**](integrations/smartpid/)**,** [**Plaato Airlock**](integrations/plaato/airlock.md) **and** [**Custom Stream**](integrations/custom-stream.md) ****with [**Webhook**](integrations/webhook.md) support
 * **Print** your recipe or batch to PDF
@@ -52,7 +52,7 @@ Brewfather strives to cover all your brewing needs in one place, new features ar
 
 Brewfather can be added to your homescreen on Android and iOS devices to give you the best user experience.
 
-## Free to try as long as you want! <a id="pricing"></a>
+## Free to use as long as you want! <a id="pricing"></a>
 
 Brewfather can be **used for free as long as you want** with a few limitations. New users are granted a free 30-day membership of Brewfather Premium with no limitations.
 
