@@ -4,6 +4,16 @@
 
 [Visit the issue tracker for more info](https://gitlab.com/warpkode/public/brewfather/boards).
 
+## 1.10.1 - 08.10.2019
+
+### New
+
+* Updated danish beer styles to 2019 \(DØDL 2019\)
+
+### Fixed
+
+* Properly identify iPadOS 13
+
 ## 1.10.0 - 31.08.2019
 
 ### New public recipe library
