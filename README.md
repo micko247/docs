@@ -86,18 +86,20 @@ To sign up for **Brewfather Premium** - go to your account page in [Brewfather A
 
 All payments and credit card details are handled securely by [Stripe](https://www.stripe.com/). Brewfather never recieves any sensitive payment details. Full PCI compliance.
 
-## Ownership <a id="author"></a>
+## About Brewfather <a id="author"></a>
 
-Brewfather is owned by the company [**Warpkode AS**](https://warpkode.com) ****and is made by lead developer ****Thomas Gangsøy. Professional developer, and brewer at heart!
+Brewfather \(owned by [**Warpkode AS**](https://warpkode.com)\) ****
+
+Lead developer and architect: ****Thomas Gangsøy. Professional developer, and brewer at heart!
 
 Brewfather® is a registered trademark.
 
-Brewfather**©** copyright Warpkode AS.
+Brewfather**©** copyright Warpkode AS. All rights reserved.
 
 ## Documentation
 
 {% hint style="info" %}
-The documentation for Brewfather is currently not complete. It is currently in the process of being written.
+The documentation is currently in the process of being written.
 {% endhint %}
 
 ![Monitor your brews with Brewfather&apos;s integrations](.gitbook/assets/image%20%2885%29.png)
