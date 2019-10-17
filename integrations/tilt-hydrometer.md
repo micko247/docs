@@ -63,6 +63,10 @@ After the Tilt has done its first logging to Brewfather, it will appear in the d
 
 ![Tilt integration gives you full control over your fermentation progress](../.gitbook/assets/tilt_chart%20%281%29.jpg)
 
+### Multiple devices
+
+Having multiple Tilts logging to Brewfather is simple, just set them all up logging to the same URL and make sure they have different colors.
+
 ## Where can i get a Tilt Hydrometer?
 
 _Want your shop listed here? Get in_ [_touch_](../more/contact.md)_._

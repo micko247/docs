@@ -18,3 +18,7 @@ After the iSpindel has done its first logging to Brewfather, it will appear in t
 Make sure your iSpindel reports gravity in Plato \(it will be converted to SG\) and temperature in Celcius. Add **\[SG\]** to the name of your iSpindel if you use SG based formula.
 {% endhint %}
 
+### Multiple devices
+
+Having multiple iSpindels logging to Brewfather is simple, just set them all up logging to the same URL, but make sure they have unique names in the iSpindel configuration.
+
